@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos para Cadastrar</title>
+    <style>
+        /* ... existing styles ... */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Produtos para Cadastrar</h1>
+        
+        <!-- Tabs -->
+        <div class="tabs">
+            <div class="tab active" data-tab="products">Produtos</div>
+            <div class="tab" data-tab="trash">Lixeira</div>
+        </div>
+
+        <!-- Contador de produtos e Pesquisa -->
+        <div class="counter">
+            Total de produtos: <span id="totalProducts">0</span><br>
+            Produtos cadastrados: <span id="completedProducts">0</span>
+        </div>
+
+        <!-- Barra de pesquisa -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Pesquisar produtos...">
+        </div>
+
+        <!-- Bulk actions -->
+        <div class="bulk-actions" style="text-align: center; margin-bottom: 20px;">
+            <button onclick="checkAll()" class="action-btn">Marcar Todos</button>
+            <button onclick="uncheckAll()" class="action-btn">Desmarcar Todos</button>
+        </div>
+
+        <!-- Layout Principal -->
+        <div class="main-container">
+            <!-- Sidebar com Categorias -->
+            <div class="sidebar">
+                <div class="sidebar-header">Categorias</div>
+                <div class="category-list">
+                    <button class="category-button active" data-category="all">
+                        <span>Todas as Categorias</span>
+                        <span class="category-count" id="count-all">0</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Área de Conteúdo -->
+            <div class="content-area">
+                <!-- Container de Produtos -->
+                <div class="products-container">
+                    <ul class="product-list" id="productList">
+                        <!-- Os produtos serão inseridos aqui via JavaScript -->
+                    </ul>
+                </div>
+
+                <!-- Container da Lixeira -->
+                <div class="trash-container">
+                    <ul class="product-list" id="trashList">
+                        <!-- Produtos excluídos serão inseridos aqui -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ... existing script code ...
+
+        // Modificar o caminho do fetch para ser relativo
+        fetch('./data/products.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(productsData => {
+                // ... rest of the code ...
+            })
+            .catch(error => {
+                console.error('Erro ao carregar produtos:', error);
+                document.body.innerHTML += `<div style="color: red; text-align: center;">Erro ao carregar produtos: ${error.message}</div>`;
+            });
+    </script>
+</body>
+</html> 

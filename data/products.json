@@ -1,0 +1,3106 @@
+[
+  {
+    "Categoria": "",
+    "Nome do Produto": "",
+    "Preço": "",
+    "Descrição": "",
+    "Status": "",
+    "URL da Imagem": "placeholder.jpg"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Beef Club 1.000kg a 1.100kg",
+    "Preço": "R$ 46,20",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729897214386blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Beef Club 1.100kg a 1.200kg",
+    "Preço": "R$ 50,40",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729897214386blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Beef Club 1.200kg a 1.300kg",
+    "Preço": "R$ 54,60",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729897214386blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Beef Club 900g a 1.000kg",
+    "Preço": "R$ 42,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729897214386blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Estancia 92 1.000kg a 1.100kg",
+    "Preço": "R$ 104,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729898789814blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Estancia 92 1.100kg a 1.200kg",
+    "Preço": "R$ 114,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729898789814blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Estancia 92 1.200kg a 1.300kg",
+    "Preço": "R$ 123,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729898789814blob"
+  },
+  {
+    "Categoria": "Bife Ancho",
+    "Nome do Produto": "Estancia 92 900g a 1.000kg",
+    "Preço": "R$ 95,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729898789814blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Cabaré ouro 700ml",
+    "Preço": "R$ 36,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619405372blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Cabaré prata 700ml",
+    "Preço": "R$ 36,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619428012blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Canelinha da Rocha 900ml",
+    "Preço": "R$ 19,00",
+    "Descrição": "Canelinha da Rocha\n\nCoquetel Alcoólico Canela com Gengibre\n\nA Companhia perfeita para qualquer ocasião.\n\nSabor adocicado com traços de canela, feito para todos os paladares.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730849784541blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Cynar 900ml",
+    "Preço": "R$ 26,00",
+    "Descrição": "Destilado é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729620578823blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Salinas Umburana 1 L",
+    "Preço": "R$ 83,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729620509972blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Salinas cristalina 600ml",
+    "Preço": "R$ 36,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729620233160blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Salinas tradicional 1 L",
+    "Preço": "R$ 49,00",
+    "Descrição": "Cachaça é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729620389890blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Salinas tradicional 600ml",
+    "Preço": "R$ 36,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729620267063blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Seleta 1L",
+    "Preço": "R$ 49,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619963043blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Seleta prata 1L",
+    "Preço": "R$ 47,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619910818blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Ypioca ouro 965ml",
+    "Preço": "R$ 25,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619336875blob"
+  },
+  {
+    "Categoria": "Cachaça",
+    "Nome do Produto": "Ypioca reserva 965ml",
+    "Preço": "R$ 43,00",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619354469blob"
+  },
+  {
+    "Categoria": "Carvão Para Churrasco",
+    "Nome do Produto": "Carvão São joao 2kg",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730403063508blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Cerveja Hocus Pocus Orange Sunshine Lata 350ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Uma Blond Ale com adição de laranja e com o DNA da reverenciada cervejaria carioca Hocus Pocus. Leve, de corpo médio, notas frutadas, cítricas e com final resinoso é uma cerveja muito fácil de beber e uma excelente opção para aqueles que querem sabor e aroma aliados a uma ótima drinkability.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731618223182blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado Cauim 600ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617894326blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado Demoiselle 600ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617801708blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado Indica 600ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Cerveja é uma bebida alcoólica .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617848685blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado Ribeirão 600ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617685955blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado Ribeirão long neck 355ml",
+    "Preço": "R$ 6,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617655595blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Colorado vixnu 600ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729617744217blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Hocus Pocus Aura Session Hazy Ipa 500ml",
+    "Preço": "R$ 20,00",
+    "Descrição": "A Hocus Pocus Aura Session Hazy IPA é uma cerveja artesanal brasileira com aromas e sabores de frutas tropicais, produzida com lúpulos americanos e maltes selecionados. De corpo médio e amargor equilibrado, é uma cerveja refrescante e saborosa, perfeita para quem busca novas experiências cervejeiras.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731617828113blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "Petra 350ML",
+    "Preço": "R$ 4,00",
+    "Descrição": "Cerveja Petra Puro Malte é uma cerveja de baixo teor alcoólico, com sabor suave e refrescante. É produzida com maltes selecionados e lúpulos especiais, que lhe conferem um aroma único. Possui cor dourada e espuma cremosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731607648866blob"
+  },
+  {
+    "Categoria": "Cervejas",
+    "Nome do Produto": "cerveja Hocus Pocus Alma 500ml",
+    "Preço": "R$ 18,90",
+    "Descrição": "A cerveja Hocus Pocus Alma é uma cerveja Oat Lager produzida com adição de aveia, o que cria uma sensação maior de corpo na boca a deixando parecida com um chopp recém-tirado da torneira. Ela foi criada para representar a essência de uma verdadeira cerveja Lager, utilizando os mais refinados ingredientes, técnicas de produção avançada, após anos de testes e melhorias. Essa cerveja é bastante leve, com aromas suaves, paladar refrescante e muito saborosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731618002089blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Antártica Pilsen 1L Retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631616763blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Antártica retornavel 300ml",
+    "Preço": "R$ 3,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628533947blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Antártica retornável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631122723blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Antártica subzero retornável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631167403blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Becks Retornável 600ml",
+    "Preço": "R$ 9,50",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631014440blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Bohemia retornavel 300ml",
+    "Preço": "R$ 3,30",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628459329blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Brahma Duplo Malte retornavel 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729630989476blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Brahma chopp 1L retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631657367blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Brahma chopp retornavel 300ml",
+    "Preço": "R$ 3,30",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628602820blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Brahma chopp retornável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631145182blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Brahma duplo malte 1L Retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631384859blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Budeweiser 1L Retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631464267blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Budweiser retornavel 300ml",
+    "Preço": "R$ 3,30",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628396740blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Budweiser retorável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631068638blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Heineken retornável 600ml",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631225499blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Original 1L Retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631362471blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Original Retornável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631048114blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Original retornavel 300ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628442524blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Serramalte retornável 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631101539blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Skol 1L retornável",
+    "Preço": "R$ 10,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631588782blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Skol retornavel 300ml",
+    "Preço": "R$ 3,30",
+    "Descrição": "Cerveja é uma bebida alcoólica",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628475778blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Skol retornavel 600ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729630913765blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Spaten retornavel 600ml",
+    "Preço": "R$ 9,50",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729630947047blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "Stella Retornável 600ml",
+    "Preço": "R$ 9,50",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729631030813blob"
+  },
+  {
+    "Categoria": "Cervejas Retornável",
+    "Nome do Produto": "brahma duplo malte retornavel 300ml",
+    "Preço": "R$ 3,30",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628418827blob"
+  },
+  {
+    "Categoria": "Chopp Lata 350ml",
+    "Nome do Produto": "Chopp Brahma",
+    "Preço": "R$ 6,02",
+    "Descrição": "A Chopp Brahma entrega um sabor inigualável, com equilíbrio entre malte e lúpulo, e uma cremosidade que torna cada gole suave e marcante. Perfeita para momentos especiais, é a escolha ideal para um happy hour ou churrasco com amigos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730300556767blob"
+  },
+  {
+    "Categoria": "Chopp Lata 350ml",
+    "Nome do Produto": "Chopp Brahma 350ml",
+    "Preço": "R$ 47,73",
+    "Descrição": "A Chopp Brahma entrega um sabor inigualável, com equilíbrio entre malte e lúpulo, e uma cremosidade que torna cada gole suave e marcante. Perfeita para momentos especiais, é a escolha ideal para um happy hour ou churrasco com amigos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730300996142blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 1.000kg a 1.100kg",
+    "Preço": "R$ 66,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 1.100kg a 1.200kg",
+    "Preço": "R$ 72,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 1.200kg a 1.300kg",
+    "Preço": "R$ 78,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 1.300kg a 1.400kg",
+    "Preço": "R$ 84,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 1.400kg a 1.500kg",
+    "Preço": "R$ 90,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Bassi 900g a 1.000kg",
+    "Preço": "R$ 60,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729894920405blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Cara Preta 1.000kg a 1.100kg",
+    "Preço": "R$ 93,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729896329699blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Cara Preta 1.100kg a 1.200kg",
+    "Preço": "R$ 102,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729896329699blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Cara Preta 900g a 1.000kg",
+    "Preço": "R$ 85,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729896329699blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 1.000kg a 1.100kg",
+    "Preço": "R$ 84,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 1.100kg a 1.200kg",
+    "Preço": "R$ 93,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 1.200kg a 1.300kg",
+    "Preço": "R$ 102,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 1.300kg a 1.400kg",
+    "Preço": "R$ 111,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 1.400kg a 1.500kg",
+    "Preço": "R$ 88,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Carolina Black 900g a 1.000kg",
+    "Preço": "R$ 75,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729895723232blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 1.000kg a 1.100kg",
+    "Preço": "R$ 60,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 1.100kg a 1.200kg",
+    "Preço": "R$ 66,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 1.200kg a 1.300kg",
+    "Preço": "R$ 71,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 1.300kg a 1.400kg",
+    "Preço": "R$ 77,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 1.400kg a 1.500kg",
+    "Preço": "R$ 82,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Chorizo",
+    "Nome do Produto": "Montana 900g a 1.000kg",
+    "Preço": "R$ 55,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729893667923blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Black Label 1L",
+    "Preço": "R$ 220,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730412760851blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Buchanas 1L",
+    "Preço": "R$ 240,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730411762875blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Chivas 12 Anos 1L",
+    "Preço": "R$ 200,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730413085659blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Cockland 1L",
+    "Preço": "R$ 105,00",
+    "Descrição": "1 Garrafa 1L\n5 Gelo de Coco\n5 Red Bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730411338324blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Bananinha 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ml\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730416015404blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Maça Verde 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ml\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730415188325blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Melancia 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n1 Baly 2 L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730414982870blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Morango 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ml\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730416124182blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Pêssego e Framboesa 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ML\n5 gelo de coco\n1 Baly 2L \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730415930069blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Sevilla 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900Ml\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730415535653blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Eternity Tradicional 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ml\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730415676202blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gin Bombay Saphire 750ml",
+    "Preço": "R$ 160,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730418981562blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gin Eternity Tropical Fruits 900ml",
+    "Preço": "R$ 45,00",
+    "Descrição": "1 Garrafa 900ml\n5 gelo de coco\n1 Baly 2 L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730415109981blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gin Rocks pink 1L",
+    "Preço": "R$ 55,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco \n1 Baly 2 L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730414370979blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gold Label",
+    "Preço": "R$ 280,00",
+    "Descrição": "1 Garrafa \n5 gelo de coco\n5 Red bull \n2 Copos 770ml \n2 Canudos",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730419400520blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gordons 750ml",
+    "Preço": "R$ 135,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730417136961blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Gordon´s PInk 750ml",
+    "Preço": "R$ 135,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730417573544blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Jack Daniel´s 1L",
+    "Preço": "R$ 190,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730409556794blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Jean Bean 1L",
+    "Preço": "R$ 165,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730418439310blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Old Par 1L",
+    "Preço": "R$ 205,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730412084549blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo PassaPort 1L",
+    "Preço": "R$ 65,00",
+    "Descrição": "1 Garrafa 1L\n5 Gelo de coco \n1 Vibe 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730410907097blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Passaport 1L",
+    "Preço": "R$ 105,00",
+    "Descrição": "1 Garrafa 1L\n5 Gelo de Coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730410572175blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Red Label 1L",
+    "Preço": "R$ 150,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730412487009blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Rocks Tradicional 1L",
+    "Preço": "R$ 55,00",
+    "Descrição": "1 Garrafa 1L\n5 gelo de coco\n1 Baly 2L\n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730414481924blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Tanqueray 750ml",
+    "Preço": "R$ 185,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco \n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730416842109blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Tanqueray Royale 700 ml",
+    "Preço": "R$ 185,00",
+    "Descrição": "1 Garrafa 700ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730417369720blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo Vitória Régia tradicional 750ml",
+    "Preço": "R$ 135,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730418290696blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Combo White Horse 1L",
+    "Preço": "R$ 135,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730410210654blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Jack Daniel´s Single Barrel",
+    "Preço": "R$ 380,00",
+    "Descrição": "1 Garrafa 750ml\n5 gelo de coco\n5 Red bull \n2 Copos 770ml \n2 Canudos",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730419229252blob"
+  },
+  {
+    "Categoria": "Combo Bebidas",
+    "Nome do Produto": "Trident Menta",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731082059222blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 1.000kg a 1.100kg",
+    "Preço": "R$ 60,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 1.100kg a 1.200kg",
+    "Preço": "R$ 66,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 1.200g a 1.300kg",
+    "Preço": "R$ 71,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 1.300kg a 1.400kg",
+    "Preço": "R$ 77,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 1.400g a 1.500kg",
+    "Preço": "R$ 82,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Chefe Friboi 900g a 1.000kg",
+    "Preço": "R$ 55,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729814250382blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 1.000kg a 1.100kg",
+    "Preço": "R$ 66,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 1.100kg a 1.200kg",
+    "Preço": "R$ 72,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 1.200kg a 1.300kg",
+    "Preço": "R$ 78,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729891896632blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 1.300kg a 1.400kg",
+    "Preço": "R$ 84,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 1.400kg a 1.500kg",
+    "Preço": "R$ 90,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Maturatta 900g a 1.000kg",
+    "Preço": "R$ 60,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 1.000kg a 1.100kg",
+    "Preço": "R$ 53,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 1.100kg a 1.200kg",
+    "Preço": "R$ 57,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 1.200kg a 1.300kg",
+    "Preço": "R$ 61,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 1.300kg a 1.400kg",
+    "Preço": "R$ 64,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 1.400kg a 1.500kg",
+    "Preço": "R$ 68,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Contra Filé",
+    "Nome do Produto": "Paraguaio 900g a 1.000kg",
+    "Preço": "R$ 49,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729812782280blob"
+  },
+  {
+    "Categoria": "Cortes Aves",
+    "Nome do Produto": "Coraçâo temperado no espeto 400g a 500g",
+    "Preço": "R$ 18,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729903733324blob"
+  },
+  {
+    "Categoria": "Cortes Aves",
+    "Nome do Produto": "Coraçâo temperado no espeto 900g a 1.000kg",
+    "Preço": "R$ 36,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729903733324blob"
+  },
+  {
+    "Categoria": "Cortes Aves",
+    "Nome do Produto": "Tulipa Temperada 900g a 1.000kg",
+    "Preço": "R$ 27,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729909039813blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 1.000kg a 1.100kg",
+    "Preço": "R$ 32,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 1.100kg a 1.200kg",
+    "Preço": "R$ 34,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 1.200kg a 1.300kg",
+    "Preço": "R$ 35,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 1.300kg a 1.400kg",
+    "Preço": "R$ 36,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 1.400g a 1.500kg",
+    "Preço": "R$ 37,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Barriga Dalila 900g a 1.000kg",
+    "Preço": "R$ 31,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729902399649blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Costela suina Temperada 1.600kg a 1.700kg",
+    "Preço": "R$ 62,90",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729904848266blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Costela suina Temperada 1.700kg a 1.800kg",
+    "Preço": "R$ 66,60",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729904848266blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Costela suina Temperada 1.800kg a 1.900kg",
+    "Preço": "R$ 70,30",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729904848266blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Costela suina Temperada 1.900kg a 2.000kg",
+    "Preço": "R$ 74,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729904848266blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Costela suina Temperada 2.000kg a 2.100kg",
+    "Preço": "R$ 77,70",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729904848266blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Picanha suína 1.000kg a 1.100kg",
+    "Preço": "R$ 35,20",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729901645441blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Picanha suína 1.100kg a 1.200kg",
+    "Preço": "R$ 38,40",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729901645441blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Picanha suína 1.200kg a 1.300kg",
+    "Preço": "R$ 41,60",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729901645441blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Picanha suína 1.300kg a 1.400kg",
+    "Preço": "R$ 44,80",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729901645441blob"
+  },
+  {
+    "Categoria": "Cortes Suínos",
+    "Nome do Produto": "Picanha suína 900g a 1.000kg",
+    "Preço": "R$ 32,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729901645441blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra De Chocolate Lacta Diamante Negro 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730854470437blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Diamante Negro 165g Tamanho Familia",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731080786628blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Diamante Negro Laka 165g Tamanho Familia",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731080893126blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Amaro 40% Cacau 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025575744blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Ao Leite 165g Tamanho Familia",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731026179984blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Ao Leite 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025064297blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Laka 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025479898blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Laka Oreo 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731024945283blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Lakta Oreo 165g Tamanho Familia",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731026375823blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Oreo 90g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731024839434blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Ouro Branco 98g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025701362blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Shot 80g",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025262017blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Lacta Sonho De Valsa 98g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731025893265blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra Shot 165g Tamanho Familia",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731080408903blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Barra de chocolate Diamante Negro Laka 80g Lacta",
+    "Preço": "R$ 7,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730854694146blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Bis Ao Leite 100,8g",
+    "Preço": "R$ 7,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081939497blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Bis Black 100,8g",
+    "Preço": "R$ 7,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081392942blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Bis Branco 100,8g",
+    "Preço": "R$ 7,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081633099blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Bis Extra Black 45g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081769647blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Bis Xtra Oreo 45g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081897059blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Chocolate Suflair 50g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731081211052blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Doce De Amendoim Gibi",
+    "Preço": "R$ 2,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730853833732blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Halls Extra Forte",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731083223972blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Halls Menta",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731082773060blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Halls Morango",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731083291458blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Halls cereja",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731082698994blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Paçoca Amor",
+    "Preço": "R$ 1,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730854165589blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Paçoca Rolha",
+    "Preço": "R$ 2,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730853541465blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Pingo De Leite",
+    "Preço": "R$ 2,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730854063607blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Trident Tutti Frutti",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731082277618blob"
+  },
+  {
+    "Categoria": "Doces / Chocolates",
+    "Nome do Produto": "Tridente Hortelã",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731082154612blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Beats Red Mix 269 Lata",
+    "Preço": "R$ 6,00",
+    "Descrição": "O líquido é vermelho e refrescante, misturando sabores cítricos e silvestres. Perfeita para beber bem gelada, pura ou com gelo. A embalagem também é algo nunca antes visto. Trata-se do primeiro vidro vermelho fabricado sem processo de tintura.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1732110634749blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Brutal Fruit Spritzer 275ml",
+    "Preço": "R$ 11,00",
+    "Descrição": "O sabor da sofisticação em suas mãos. Brutal Fruit é um drink pronto que remete ao universo das borbulhas, entregando sofisticação e luxo acessível para todas. Notas de degustação: Uma doce e refrescante infusão de frutas cítricas e vermelhas com suco de maçã, levemente gaseificada e finalizada com um toque floral. Harmonização: Peixes e Frutos do mar Queijos de casca branca e duros Morangos Chocolates Sugestão de consumo Socialização Refeições Categoria: Bebida alcoólica mista gaseificada / Spritzer Copo ideal: uma taça de sua preferência",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730912721898blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Cabaré ice frutas amarelas 275ml",
+    "Preço": "R$ 7,00",
+    "Descrição": "Drink é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729618587892blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Cabaré ice frutas vermelhas 275ml",
+    "Preço": "R$ 7,00",
+    "Descrição": "Drink é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729618709123blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Cabaré ice limão 275ml",
+    "Preço": "R$ 7,00",
+    "Descrição": "Drink é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729618510304blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Cabaré ice tangerina 275ml",
+    "Preço": "R$ 7,00",
+    "Descrição": "Drink é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729618460467blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Mike´s Tangerina 275ml",
+    "Preço": "R$ 9,00",
+    "Descrição": "O Mike's Hard Lemonade é um drink pronto com vodka e suco de limão. É o #1 da categoria \"Ready to Drink\" dos Estados Unidos e acabou de chegar no Brasil. Tem 5% de teor alcoólico, é leve, refrescante e muito gostoso, perfeito para os dias quentes. Disponível em três sabores gostosos de verdade: limão, pitaia e tangerina.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731605735316blob"
+  },
+  {
+    "Categoria": "Drinks Prontos",
+    "Nome do Produto": "Skol Beats Red Mix 269ml Frutas Vermelhas",
+    "Preço": "R$ 7,00",
+    "Descrição": "O líquido é vermelho e refrescante, misturando sabores cítricos e silvestres. Perfeita para beber bem gelada, pura ou com gelo. A embalagem também é algo nunca antes visto. Trata-se do primeiro vidro vermelho fabricado sem processo de tintura.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1732110683231blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Baly Morango e Pessego 2L",
+    "Preço": "R$ 12,00",
+    "Descrição": "Um sabor complexo que combina, sem misturar, os sabores das frutas, esse energético consegue trazer os sabores do morango contrastando com a suculência do pêssego, preservando cada fruta de uma forma única. Um produto sem igual e que conquista 10 a cada 10 amantes de energéticos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730940656702blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Fusion 1L Tradicional",
+    "Preço": "R$ 10,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615603424blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Fusion 2L Tradicional",
+    "Preço": "R$ 10,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615551969blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Fusion Melancia 2L",
+    "Preço": "R$ 10,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615567809blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Fusion tropical 2L",
+    "Preço": "R$ 10,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615584864blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Red Bull 250ml sugar free zero",
+    "Preço": "R$ 10,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615654860blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Red Bull Maracuja e melão 250ml",
+    "Preço": "R$ 10,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1732820682888blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Red Bull Pera e canela 250ml",
+    "Preço": "R$ 10,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1732821629361blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "Red bull 355ml Tradicional",
+    "Preço": "R$ 15,00",
+    "Descrição": "O energético é uma bebida que estimula a energia",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615674320blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "TNT Mango Summer 269ml",
+    "Preço": "R$ 6,00",
+    "Descrição": "Energético TNT Manga",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731604286758blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "TNT Original 475ML",
+    "Preço": "R$ 10,00",
+    "Descrição": "Energético TNT Original 475ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731604680469blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "TNT Tangerina 269ml",
+    "Preço": "R$ 6,00",
+    "Descrição": "Energético TNT Tangerina",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731604141800blob"
+  },
+  {
+    "Categoria": "Energéticos",
+    "Nome do Produto": "TNT Zero Açucares 269ml",
+    "Preço": "R$ 6,00",
+    "Descrição": "Energético TNT Zero Açucares 269ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731604458242blob"
+  },
+  {
+    "Categoria": "Espetos Prontos",
+    "Nome do Produto": "Espeto bovino 600g",
+    "Preço": "R$ 29,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729910057901blob"
+  },
+  {
+    "Categoria": "Espetos Prontos",
+    "Nome do Produto": "Espeto frango 600g",
+    "Preço": "R$ 24,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729910834967blob"
+  },
+  {
+    "Categoria": "Espetos Prontos",
+    "Nome do Produto": "Espeto kafta 600g",
+    "Preço": "R$ 29,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729910057901blob"
+  },
+  {
+    "Categoria": "Espetos Prontos",
+    "Nome do Produto": "Espeto linguiça toscana 600g",
+    "Preço": "R$ 20,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729910203711blob"
+  },
+  {
+    "Categoria": "Espetos Prontos",
+    "Nome do Produto": "Queijo Coalho Quatá",
+    "Preço": "R$ 25,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729909799709blob"
+  },
+  {
+    "Categoria": "Gins",
+    "Nome do Produto": "Gin eternety sevilla 900ml",
+    "Preço": "R$ 25,00",
+    "Descrição": "Gin é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619153355blob"
+  },
+  {
+    "Categoria": "Gins",
+    "Nome do Produto": "Gin gordons pink 750ml",
+    "Preço": "R$ 85,00",
+    "Descrição": "Gin é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619008142blob"
+  },
+  {
+    "Categoria": "Gins",
+    "Nome do Produto": "Gin tanqueray royale 750ml",
+    "Preço": "R$ 120,00",
+    "Descrição": "Gin é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619075749blob"
+  },
+  {
+    "Categoria": "Hamburguer",
+    "Nome do Produto": "Hamburguer Carolina Black 180g",
+    "Preço": "R$ 7,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730388194799blob"
+  },
+  {
+    "Categoria": "Licor Bebida",
+    "Nome do Produto": "Aperetivo vermelhão amaro 740ml",
+    "Preço": "R$ 53,00",
+    "Descrição": "Cerveja é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619246835blob"
+  },
+  {
+    "Categoria": "Licor Bebida",
+    "Nome do Produto": "Aperol 750ml",
+    "Preço": "R$ 50,00",
+    "Descrição": "Destilado é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729619261402blob"
+  },
+  {
+    "Categoria": "Licor Bebida",
+    "Nome do Produto": "Licor Baileys Original 750ml",
+    "Preço": "R$ 79,88",
+    "Descrição": "Licor Baileys Original 750ml",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731689553262blob"
+  },
+  {
+    "Categoria": "Licor Bebida",
+    "Nome do Produto": "Licor Ballena Chocolate Caramelo",
+    "Preço": "R$ 140,00",
+    "Descrição": "O Ballena Chocolate e Caramelo é um licor de tequila que combina a suavidade do chocolate e o toque doce do caramelo, criando uma experiência única de sabor. Produzido no Brasil, esse licor fino é feito com tequila, leite, e outros ingredientes que lhe conferem uma textura cremosa. Ele é perfeito para ser degustado puro e bem gelado, especialmente em shots, proporcionando uma combinação envolvente entre o álcool suave da tequila e o sabor indulgente do chocolate e caramelo.\n\nCom uma graduação alcoólica de 16%, essa bebida é ideal para momentos descontraídos e pode agradar tanto os fãs de licores tradicionais quanto os que gostam de experimentar novos sabores.\n\nA marca Ballena, já conhecida por sua garrafa rosa e o licor sabor morango, lança essa nova versão para ampliar seu portfólio e continuar sendo a sensação do momento entre os apreciadores de licores cremosos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730843925819blob"
+  },
+  {
+    "Categoria": "Linguiças",
+    "Nome do Produto": "Carolina black requeijão cerveja e bacon 400g",
+    "Preço": "R$ 29,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729911830690blob"
+  },
+  {
+    "Categoria": "Linguiças",
+    "Nome do Produto": "Linguiça Aurora Toscana 700g",
+    "Preço": "R$ 24,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729964459777blob"
+  },
+  {
+    "Categoria": "Linguiças",
+    "Nome do Produto": "Linguiça Fininha Apimentada aurora. 600g",
+    "Preço": "R$ 22,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729912304449blob"
+  },
+  {
+    "Categoria": "Linguiças",
+    "Nome do Produto": "Linguiça fininha aurora 600g.",
+    "Preço": "R$ 22,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729912455454blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Ana Paula Black 1.400kg a 1.500kg",
+    "Preço": "R$ 187,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729805937971blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Ana Paula Black 1.500kg a 1.600kg",
+    "Preço": "R$ 200,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729805937971blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Ana Paula Black 1.600kg a 1.700kg",
+    "Preço": "R$ 212,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729805937971blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Ana Paula Black 1.700kg a 1.800kg",
+    "Preço": "R$ 225,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729805937971blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Bassi 900k a 1.000kg",
+    "Preço": "R$ 125,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729806444886blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Maturatta 1.200 a 1.300kg",
+    "Preço": "R$ 97,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729810926046blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 1.000kg a 1.100kg",
+    "Preço": "R$ 93,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 1.100kg a 1.200kg",
+    "Preço": "R$ 102,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 1.200kg a 1.300kg",
+    "Preço": "R$ 110,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 1.300kg a 1.400kg",
+    "Preço": "R$ 119,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 1.400kg a 1.500kg",
+    "Preço": "R$ 127,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Paraguaia 900g a 1.000kg",
+    "Preço": "R$ 85,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729808840459blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Pul Uruguaia 1.000kg a 1.100kg",
+    "Preço": "R$ 104,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729807620523blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Pul Uruguaia 1.100kg a 1.200kg",
+    "Preço": "R$ 114,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729807620523blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Pul Uruguaia 1.200kg a 1.300kg",
+    "Preço": "R$ 123,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729807620523blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Pul Uruguaia 1.300kg a 1.400kg",
+    "Preço": "R$ 133,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729807620523blob"
+  },
+  {
+    "Categoria": "Picanha",
+    "Nome do Produto": "Pul Uruguaya 1.400kg a 1.500kg",
+    "Preço": "R$ 142,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729807620523blob"
+  },
+  {
+    "Categoria": "Pão de alho",
+    "Nome do Produto": "Pão de Alho Carolina Black com queijo 300g.",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729913188481blob"
+  },
+  {
+    "Categoria": "Pão de alho",
+    "Nome do Produto": "Pão de Alho santa massa 400g.",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729912777938blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Coca Zero lata 220ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Com a Coca zero Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729258154823blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Coca lata 220ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Com a Coca Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257993485blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Fanta laranja lata 220ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Com a Fanta laranja, Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729258227024blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Fanta uva lata 220 ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Com a Fanta uva Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729258313159blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500 ml maracujá",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614611848blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml Laranja",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614521328blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml blue berry",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614544709blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml frutas cítricas",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614830069blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml limão",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614716885blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml morango e maracujá",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614697410blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml morango e melancia",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614584229blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml tangerina",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614804778blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade 500ml uva",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614473378blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade zero 350ml frutas silvestres",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614870418blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Gatorade zero laranja 350ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "Ele é o suplemento hidroeletrolítico que recupera, reidrata e repõe os carboidratos e sais minerais que o seu corpo perde quando você pratica um esporte.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729614899545blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Guaraná Antartica 1,5L",
+    "Preço": "R$ 6,50",
+    "Descrição": "Com o Guaraná oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615329617blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Guaraná Antartica 269ml",
+    "Preço": "R$ 3,00",
+    "Descrição": "Produzido com uma frutinha amazonense de sabor agradável, é um refrigerante natural, leve e original, que conquistou o mercado exterior, particularmente Japão, onde lidera um ranking de dez diferentes marcas. Bebida não Alcoólica. Contém 269ml.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731605138758blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o Limoneto 1,5ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257702535blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o citrus 1,5ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257515987blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o citrus 500ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257456218blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o limoneto 500ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257651594blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o limão 1,5ml",
+    "Preço": "R$ 8,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257729474blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "H2o limão 500ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "H2O é uma bebida leve, refrescante zero calorias, sem adição de açúcar, com suco de fruta natural. Pode ser consumida por qualquer idade, não contém álcool.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257592679blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Pepsi 200ml",
+    "Preço": "R$ 2,50",
+    "Descrição": "Com Pepsi oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615087018blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Pepsi 269ml",
+    "Preço": "R$ 3,00",
+    "Descrição": "A Pepsi é uma bebida refrescante e saborosa, feita com ingredientes de qualidade. Esta lata de 350ml é ideal para compartilhar com amigos e familiares. Desfrute do sabor único da Pepsi, refrescante e com um toque de limão. Uma bebida refrescante para todos os momentos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731605320608blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Pepsi black 1,5L",
+    "Preço": "R$ 6,50",
+    "Descrição": "Com a Pepsi Black oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615160491blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Pepsi twist 2L",
+    "Preço": "R$ 8,00",
+    "Descrição": "Com a Pepsi twist oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615064103blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Pepsi twist 350ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "Com a Pepsi twist Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615129888blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Soda 200ml",
+    "Preço": "R$ 2,50",
+    "Descrição": "Com a Soda oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729615308090blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Sprite lata 220ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "Com a sprite Lata oferece um sabor refrescante e irresistível, com a clássica efervescência que você ama. \nIdeal para qualquer ocasião, proporcionando uma experiência leve .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729258188299blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Sú Fresh Maracujá 1L",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sufresh é um refrescante suco que não contém conservante, rico em vitaminas, e que mantém as propriedades originais da fruta, garantindo o sabor de suco feito na hora. Linha de sucos e néctares naturais que reúne todo o sabor das frutas selecionadas dos melhores pomares.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730941166250blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Sú Fresh Morango 1L",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sufresh é um refrescante suco que não contém conservante, rico em vitaminas, e que mantém as propriedades originais da fruta, garantindo o sabor de suco feito na hora. Linha de sucos e néctares naturais que reúne todo o sabor das frutas selecionadas dos melhores pomares.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730941251268blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Tônica 1 L",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729888277172blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Tônica 350 ml",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729888132385blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Tônica zero 350 ml",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729888224923blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "kero coco 330ml",
+    "Preço": "R$ 6,00",
+    "Descrição": "Àgua De coco natural .",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729888831423blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água C/ Gás Minalba 1.5L",
+    "Preço": "R$ 6,00",
+    "Descrição": "Água C gás 1,5L",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731607207652blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água Cristal sem gás 510 ml",
+    "Preço": "R$ 2,00",
+    "Descrição": "A água é um recurso natural fundamental para a existência de todas as formas de vida.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257235793blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água Tônica 1L",
+    "Preço": "R$ 8,00",
+    "Descrição": "O quinino é extraído da casca de uma planta denominada chichona ou quina, conhecida por suas qualidades medicinais, como auxiliar no processo digestivo. Com sabor natural e leve, a Tônica Antarctica é líder absoluta em seu segmento. Bebida Não Alcoólica. Contém 269ml.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731607013940blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água Tônica 269ml",
+    "Preço": "R$ 3,50",
+    "Descrição": "O quinino é extraído da casca de uma planta denominada chichona ou quina, conhecida por suas qualidades medicinais, como auxiliar no processo digestivo. Com sabor natural e leve, a Tônica Antarctica é líder absoluta em seu segmento. Bebida Não Alcoólica. Contém 269ml.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731606934538blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água ama sem gás 500ml",
+    "Preço": "R$ 3,00",
+    "Descrição": "A água é um recurso natural fundamental para a existência de todas as formas de vida.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257337984blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água minalba com gás 510ml",
+    "Preço": "R$ 3,00",
+    "Descrição": "A água é um recurso natural fundamental para a existência de todas as formas de vida.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729256984595blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água minalba sem gás 1,5ml",
+    "Preço": "R$ 5,00",
+    "Descrição": "A água é um recurso natural fundamental para a existência de todas as formas de vida.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729257060477blob"
+  },
+  {
+    "Categoria": "Refrigerantes / Água / Sucos / Chá",
+    "Nome do Produto": "Água minalba sem gás 510 ml",
+    "Preço": "R$ 2,00",
+    "Descrição": "A água é um recurso natural fundamental para a existência de todas as formas de vida.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729256934577blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Amendoim Elma Chips Japonês 145g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731617346152blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Amendoim Elma Chips Japonês 45g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731617424260blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Amendoim Elma Chips Sem Pele 100g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731617567452blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Baconzitos 130g",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611999038blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Baconzitos 34g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611940967blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cebolitos 138g",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611428217blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cebolitos 36g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611356733blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cheetos Onda Requeijão 105g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610714528blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cheetos Onda Requeijão 45g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610648024blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cheetos Parmesão 40g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610862390blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cheetos Parmesão 95g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611007852blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Cheetos Queijo 37g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611145312blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Dinamita Flamin´Hot 60g",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610280476blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Pimenta Mexicana 60g",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610433026blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Queijo Nacho 210g",
+    "Preço": "R$ 21,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731609779382blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Queijo Nacho 37G",
+    "Preço": "R$ 5,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731609207295blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Queijo Nacho 75g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731609488137blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Queijo Nacho120g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731609678106blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Sweet Chili 37g",
+    "Preço": "R$ 5,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731609939094blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Doritos Sweet Chili 75g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731610018747blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fandangos Presunto 105g",
+    "Preço": "R$ 10,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613338890blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fandangos Presunto 37g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613247701blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fandangos Queijo 105g",
+    "Preço": "R$ 10,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613619671blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fandangos Queijo 37g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613494296blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fofura Cebola 60g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615004765blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fofura Churrasco 60g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614822704blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fofura Presunto 60g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615141524blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Fofura Queijo 60g",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614905963blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Classic 70g",
+    "Preço": "R$ 9,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612675185blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sensação Frango Grelhado 80g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612923653blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sensaçãos Frango Grelhado 40g",
+    "Preço": "R$ 6,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612830414blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sensaçãos Peito De Peru 80g",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613106329blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sour Cream 115g",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612524603blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sour Cream 35g",
+    "Preço": "R$ 5,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612229342blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Lays Sour Cream 70g",
+    "Preço": "R$ 9,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731612437243blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ovinhos De Amendoim 145g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615602712blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ovinhos De Amendoim 65g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615553776blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Pururuca Bacon 55g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615294937blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Pururuca Costelinha C Limão 55g",
+    "Preço": "R$ 4,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731615375350blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Cebola E Salsa 76g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608526424blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Cebola E salsa 115g",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608594839blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Churrasco 76g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608446796blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Original 100g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608784618blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Original 115g",
+    "Preço": "R$ 15,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608392310blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Original 32g",
+    "Preço": "R$ 3,99",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608260018blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Original 76g",
+    "Preço": "R$ 9,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608324955blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Ruffles Sour Cream E Cebola 100g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731608940232blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Stiksy 76g",
+    "Preço": "R$ 5,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731611822868blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Bacon 60g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613766696blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Cebola 100g",
+    "Preço": "R$ 4,80",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614619076blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Cebola 60g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614180963blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Churrasco 100g",
+    "Preço": "R$ 4,80",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614545935blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Churrasco 60g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614087234blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Pimenta Mexicana 100g",
+    "Preço": "R$ 4,80",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614413280blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Pimenta Mexicana 60g",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731613910154blob"
+  },
+  {
+    "Categoria": "Salgadinhos",
+    "Nome do Produto": "Torcida Vinagrete 100g",
+    "Preço": "R$ 4,80",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731614712104blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Acendedor Puro Álcool 425g",
+    "Preço": "R$ 10,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730399745928blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Acendedor de carvão",
+    "Preço": "R$ 2,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730399472496blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Malagueta Vermelha 70g.",
+    "Preço": "R$ 7,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729914194136blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Molho De chimichurri Cremoso Argentino 500ml.",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730398255876blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Molho de Alho Gota 150ml.",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729913510785blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Molho de pimenta Gota 150ml.",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729913625683blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Molho shoyo gota150ml.",
+    "Preço": "R$ 4,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729913789687blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Sal Lebre Grosso 1kg",
+    "Preço": "R$ 3,50",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729914363624blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Sal de Parrila Ervas Fina 500g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730397717553blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Sal de Parrilla Chimichurri 500g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730397792030blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Sal de parrilla Tradicional 500g",
+    "Preço": "R$ 12,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730397849212blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Sal refinado 1kg",
+    "Preço": "R$ 3,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730386147976blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "TemperioLíquido Baiano picante 500ml.",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730398975899blob"
+  },
+  {
+    "Categoria": "Temperos",
+    "Nome do Produto": "Tempero Líquido Carne Suína 500 ml.",
+    "Preço": "R$ 8,00",
+    "Descrição": "Sem descrição",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730398638421blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Chopp de Vinho Draft White 600ML",
+    "Preço": "R$ 9,00",
+    "Descrição": "Do melhor chopp, produzido com o mais puro malte e lúpulo de excelência, todos combinados com uma seleção das mais saborosas e adocicadas GrapeFruits, fazem com que este produto seja iniglalável. Sua luminosidade cristalina enaltece os olhos.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731607984208blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Draft Pêssego 600ML",
+    "Preço": "R$ 9,00",
+    "Descrição": "Draft Pêssego, mistura o prazer do chopp e a refrescância da fruta, sem adição de açúcar torna este produto de baixa caloria e muito refrescante.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731607818375blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Branco Chardonnay Pedro Jimenez Reservado Concha y Toro 750ml",
+    "Preço": "R$ 34,00",
+    "Descrição": "Vinho Branco",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731600803265blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Branco Contini 900ml",
+    "Preço": "R$ 23,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729621324831blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Branco Jurupinga 975ml",
+    "Preço": "R$ 31,99",
+    "Descrição": "Cachaça uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729621358549blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Branco Sauvignon Blanc Chac Chac 750ml",
+    "Preço": "R$ 42,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729621280240blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Branco Sauvignon reservado concha y toro 750 ml",
+    "Preço": "R$ 30,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729621983691blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Rose Suave Reservado Sweet Concha Y Toro 750ml",
+    "Preço": "R$ 35,00",
+    "Descrição": "Vinho Rosé",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601141623blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Rosé Casillero Del Diablo 750ml",
+    "Preço": "R$ 55,00",
+    "Descrição": "Vinho Rosé",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601026909blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Bordô suave santomé 1L",
+    "Preço": "R$ 26,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622347991blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Cabernet Sauvignon Reno 750ml",
+    "Preço": "R$ 29,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729621132202blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Cabernet Sauvignon Reservado Concha y Toro 750ml",
+    "Preço": "R$ 35,00",
+    "Descrição": "Vinho Tinto Seco",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601389657blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Carménère Casillero Del Diablo 750ml",
+    "Preço": "R$ 55,00",
+    "Descrição": "Vinho Tinto",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601499726blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Carménère Reservado Concha y Toro 750ml",
+    "Preço": "R$ 35,00",
+    "Descrição": "Vinho Tinto",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601739937blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho Tinto Seco Cabernet Sauvignon Casillero Del Diablo 750ml",
+    "Preço": "R$ 55,00",
+    "Descrição": "Vinho Tinto Seco",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1731601866601blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto Alecrim 750ml",
+    "Preço": "R$ 35,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622116909blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto Carbenet novecento 750ml",
+    "Preço": "R$ 40,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622553693blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto Carbernet sauvignon cava negra750Ml",
+    "Preço": "R$ 56,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622612073blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto Malbec chac chac 750ml",
+    "Preço": "R$ 42,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622838408blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto Suave santomé lata 473ml",
+    "Preço": "R$ 14,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622458990blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto malbec novecento 750ml",
+    "Preço": "R$ 40,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622768083blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto mini bordô suave santomé 245ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622474125blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto reserva carménére foye 750ml",
+    "Preço": "R$ 40,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622944372blob"
+  },
+  {
+    "Categoria": "Vinhos",
+    "Nome do Produto": "Vinho tinto santomé 1l",
+    "Preço": "R$ 26,00",
+    "Descrição": "Oferece um sabor tradicional e aveludado que encanta o paladar.\nIdeal para momentos especiais, garantindo uma experiência rica e prazerosa.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729622421787blob"
+  },
+  {
+    "Categoria": "Vodka'S",
+    "Nome do Produto": "Askov Pessego 900ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "A batida envolvente de uma balada, em um sabor refrescante de Pêssego. Askov Remix tem a vibe certa pra você. Ideal para preparar diversos drinks, ou apreciar puro com gelo na balada, festa ou esquenta. Graduação Alcoólica 13,5%.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730940828215blob"
+  },
+  {
+    "Categoria": "Vodka'S",
+    "Nome do Produto": "Vodka Orloff 1,75L",
+    "Preço": "R$ 53,00",
+    "Descrição": "Vodka é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729623155273blob"
+  },
+  {
+    "Categoria": "Vodka'S",
+    "Nome do Produto": "Vodka askov limão 900ml",
+    "Preço": "R$ 15,00",
+    "Descrição": "Vodka é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729623255759blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Chivas 18 anos 750ml",
+    "Preço": "R$ 385,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729623878367blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Green Label 750ml",
+    "Preço": "R$ 225,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729627575321blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jack Daniel´s 375 ml",
+    "Preço": "R$ 65,00",
+    "Descrição": "É lentamente destilado, gota a gota, por uma passagem de 3 metros de carvão vegetal em um barril de carvalho americano novo para atingir sua característica suave. Teor alcoólico: 40%. Olfativo: Caramelo,madeira de carvalho, Gustativo: Doce, baunilha.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730832058548blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jack Daniel´s Honey 375 ml",
+    "Preço": "R$ 65,00",
+    "Descrição": "É lentamente destilado, gota a gota, por uma passagem de 3 metros de carvão vegetal em um barril de carvalho americano novo para atingir sua característica suave. Teor alcoólico: 40%. Olfativo: Caramelo,madeira de carvalho, Gustativo: Doce, baunilha.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1732820239009blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jack gentleman 1L",
+    "Preço": "R$ 215,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729624521614blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jack single barrel 750ml",
+    "Preço": "R$ 240,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729627495104blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jim beam apple 1L",
+    "Preço": "R$ 137,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729627763571blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jim beam black 1l",
+    "Preço": "R$ 125,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628080521blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jim beam bourbon1L",
+    "Preço": "R$ 110,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729627977752blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "Jim beam honey 1L",
+    "Preço": "R$ 110,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729628035283blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "White Horse 500ml",
+    "Preço": "R$ 50,00",
+    "Descrição": "Whisky White Horse 500 ml. É composto por mais de 35 maltes, uma das mais elevadas proporções de maltes nos scotch whiskies. Assim como Logan, também desenvolvido por Peter Mackie, seus principais maltes são Lagavulim, Glen Elgin e Craigellachie.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1730832189983blob"
+  },
+  {
+    "Categoria": "Whiskey",
+    "Nome do Produto": "jameson 750ml",
+    "Preço": "R$ 125,00",
+    "Descrição": "Whisk é uma bebida alcoólica.",
+    "Status": "Não Cadastrado",
+    "URL da Imagem": "https://client-assets.anota.ai/produtos/67101f4fdd3f950019df3868/-1729623714313blob"
+  }
+]
