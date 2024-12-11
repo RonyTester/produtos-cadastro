@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produtos para Cadastrar</title>
+    <title>Galler Adega - Produtos</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: #f8f9fa;
             margin: 0;
             padding: 0;
         }
@@ -16,388 +16,210 @@
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .logo {
+            max-width: 200px;
+            height: auto;
+            margin-bottom: 20px;
         }
         h1 {
-            text-align: center;
-            color: #333;
-        }
-        .product-list {
-            list-style: none;
-            padding: 0;
-        }
-        .product-item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-        .product-item:last-child {
-            border-bottom: none;
-        }
-        .product-item input[type="checkbox"] {
-            margin-right: 10px;
-        }
-        .product-item.completed {
-            text-decoration: line-through;
-            color: #999;
-        }
-        .product-item img {
-            width: 50px;
-            height: 50px;
-            object-fit: contain;
-            margin-right: 10px;
-        }
-        .product-info {
-            flex-grow: 1;
-        }
-        .price-calculator {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .price-calculator input {
-            width: 50px;
-            padding: 5px;
-            margin-right: 10px;
-        }
-        .search-container {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .search-container input {
-            width: 300px;
-            padding: 8px;
-            margin-right: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin: 10px 0;
         }
         .counter {
             text-align: center;
-            margin-bottom: 20px;
-            font-size: 1.1em;
-            color: #666;
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            font-size: 1.2em;
+            color: #2c3e50;
         }
-        .price-calculator button {
-            margin: 0 5px;
-            padding: 5px 10px;
-            border: none;
-            border-radius: 4px;
-            background-color: #4CAF50;
-            color: white;
-            cursor: pointer;
-        }
-        .price-calculator button.reset {
-            background-color: #f44336;
-        }
-        .price-calculator button:hover {
-            opacity: 0.8;
-        }
-        .tabs {
-            display: flex;
-            margin-bottom: 20px;
-            border-bottom: 1px solid #ddd;
-        }
-        
-        .tab {
-            padding: 10px 20px;
-            cursor: pointer;
-            background: #f8f8f8;
-            border: 1px solid #ddd;
-            border-bottom: none;
-            margin-right: 5px;
-            border-radius: 4px 4px 0 0;
-        }
-        
-        .tab.active {
-            background: #fff;
-            border-bottom: 1px solid #fff;
-            margin-bottom: -1px;
-        }
-        
-        .delete-btn {
-            background-color: #ff4444;
-            color: white;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 4px;
-            cursor: pointer;
-            margin-left: 10px;
-        }
-        
-        .delete-btn:hover {
-            background-color: #cc0000;
-        }
-        
-        .trash-container {
-            display: none;
-        }
-        
-        .trash-container.active {
-            display: block;
-        }
-        
-        .products-container.inactive {
-            display: none;
-        }
-        .action-btn {
-            margin: 0 5px;
-            padding: 8px 16px;
-            border: none;
-            border-radius: 4px;
-            background-color: #4CAF50;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        .action-btn:hover {
-            background-color: #45a049;
-        }
-
         .search-container {
             margin: 20px 0;
             text-align: center;
         }
-
         .search-container input {
             width: 300px;
-            padding: 8px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            font-size: 14px;
-        }
-
-        .search-container input:focus {
-            outline: none;
-            border-color: #4CAF50;
-            box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
-        }
-
-        /* Estilos para o menu de categorias */
-        .categories-menu {
-            background: #fff;
-            padding: 10px;
-            margin-bottom: 20px;
+            padding: 12px;
+            border: 2px solid #e9ecef;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-
-        .category-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-        }
-
-        .category-button {
-            padding: 8px 16px;
-            border: none;
-            border-radius: 20px;
-            background-color: #f0f0f0;
-            color: #333;
-            cursor: pointer;
+            font-size: 16px;
             transition: all 0.3s ease;
         }
-
-        .category-button:hover {
-            background-color: #4CAF50;
-            color: white;
+        .search-container input:focus {
+            outline: none;
+            border-color: #2c3e50;
+            box-shadow: 0 0 5px rgba(44, 62, 80, 0.2);
         }
-
-        .category-button.active {
-            background-color: #4CAF50;
-            color: white;
-        }
-
-        .category-section {
-            margin-bottom: 30px;
-            background: #fff;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-
-        .category-header {
-            color: #333;
-            padding: 10px;
-            margin: -15px -15px 15px -15px;
-            background: #f8f8f8;
-            border-radius: 8px 8px 0 0;
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-
         .main-container {
             display: flex;
-            gap: 20px;
-            margin-top: 20px;
+            gap: 30px;
+            margin-top: 30px;
         }
-
         .sidebar {
-            width: 250px;
+            width: 280px;
             background: #fff;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
             position: sticky;
             top: 20px;
             max-height: calc(100vh - 40px);
             overflow-y: auto;
-            overflow-x: hidden;
         }
-
-        .content-area {
-            flex: 1;
-        }
-
-        .categories-menu {
-            background: #fff;
-            border-radius: 8px;
-            overflow: hidden;
-        }
-
-        .category-list {
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-        }
-
         .category-button {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 10px 15px;
+            padding: 12px 15px;
+            margin: 5px 0;
             border: none;
-            background-color: transparent;
-            color: #333;
+            background-color: #f8f9fa;
+            color: #2c3e50;
             cursor: pointer;
             transition: all 0.3s ease;
-            text-align: left;
-            border-radius: 4px;
+            border-radius: 8px;
             width: 100%;
+            font-size: 15px;
         }
-
         .category-button:hover {
-            background-color: #f0f0f0;
+            background-color: #e9ecef;
+            transform: translateX(5px);
         }
-
         .category-button.active {
-            background-color: #4CAF50;
+            background-color: #2c3e50;
             color: white;
         }
-
-        .category-count {
-            background-color: rgba(0,0,0,0.1);
-            padding: 2px 8px;
-            border-radius: 12px;
+        .category-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+        }
+        .product-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin: 10px 0;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease;
+        }
+        .product-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .product-item img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-right: 20px;
+            border-radius: 8px;
+        }
+        .product-info {
+            flex-grow: 1;
+        }
+        .product-info strong {
+            font-size: 1.1em;
+            color: #2c3e50;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .product-info em {
+            color: #6c757d;
+            font-style: normal;
             font-size: 0.9em;
         }
-
-        .category-button.active .category-count {
-            background-color: rgba(255,255,255,0.2);
-        }
-
-        .sidebar-header {
-            font-size: 1.1em;
+        .product-info .price {
+            color: #2c3e50;
             font-weight: bold;
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #f0f0f0;
+            font-size: 1.1em;
+            margin-top: 5px;
+            display: block;
         }
-
-        /* Estilização da barra de rolagem */
-        .sidebar::-webkit-scrollbar {
-            width: 8px;
-        }
-
-        .sidebar::-webkit-scrollbar-track {
-            background: #f1f1f1;
-            border-radius: 4px;
-        }
-
-        .sidebar::-webkit-scrollbar-thumb {
-            background: #888;
-            border-radius: 4px;
-        }
-
-        .sidebar::-webkit-scrollbar-thumb:hover {
-            background: #555;
-        }
-
-        /* Garante que o conteúdo da sidebar tenha padding adequado */
-        .category-list {
-            padding-right: 5px;
-        }
-
-        /* Mantém o cabeçalho da sidebar visível durante a rolagem */
-        .sidebar-header {
-            position: sticky;
-            top: 0;
+        .category-section {
+            margin-bottom: 30px;
             background: #fff;
-            padding: 0 0 10px 0;
-            margin: 0 0 15px 0;
-            border-bottom: 2px solid #f0f0f0;
-            z-index: 1;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .category-header {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin: -20px -20px 20px -20px;
+            background: #f8f9fa;
+            border-radius: 12px 12px 0 0;
+            border-bottom: 2px solid #e9ecef;
+        }
+        .category-header img {
+            width: 32px;
+            height: 32px;
+            margin-right: 15px;
+        }
+        .category-header h2 {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 1.5em;
+        }
+        .content-area {
+            flex: 1;
+        }
+        @media (max-width: 768px) {
+            .main-container {
+                flex-direction: column;
+            }
+            .sidebar {
+                width: 100%;
+                position: static;
+            }
+            .search-container input {
+                width: 100%;
+                max-width: 300px;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Produtos para Cadastrar</h1>
-        
-        <!-- Tabs -->
-        <div class="tabs">
-            <div class="tab active" data-tab="products">Produtos</div>
-            <div class="tab" data-tab="trash">Lixeira</div>
+        <div class="header">
+            <img src="adega.jpeg" alt="Galler Adega Logo" class="logo">
+            <h1>Produtos Galler Adega</h1>
         </div>
 
-        <!-- Contador de produtos e Pesquisa -->
         <div class="counter">
-            Total de produtos: <span id="totalProducts">0</span><br>
-            Produtos cadastrados: <span id="completedProducts">0</span>
+            TOTAL DE PRODUTOS CADASTRADOS: <span id="totalProducts">0</span>
         </div>
 
-        <!-- Barra de pesquisa -->
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Pesquisar produtos...">
         </div>
 
-        <!-- Adicione esta div com os botões -->
-        <div class="bulk-actions" style="text-align: center; margin-bottom: 20px;">
-            <button onclick="checkAll()" class="action-btn">Marcar Todos</button>
-            <button onclick="uncheckAll()" class="action-btn">Desmarcar Todos</button>
-        </div>
-
-        <!-- Layout Principal -->
         <div class="main-container">
-            <!-- Sidebar com Categorias -->
             <div class="sidebar">
-                <div class="sidebar-header">Categorias</div>
                 <div class="category-list">
                     <button class="category-button active" data-category="all">
                         <span>Todas as Categorias</span>
                         <span class="category-count" id="count-all">0</span>
                     </button>
-                    <!-- Categorias serão adicionadas dinamicamente -->
+                    <!-- Categories will be added here dynamically -->
                 </div>
             </div>
 
-            <!-- Área de Conteúdo -->
             <div class="content-area">
-                <!-- Container de Produtos -->
                 <div class="products-container">
-                    <ul class="product-list" id="productList">
-                        <!-- Os produtos serão inseridos aqui via JavaScript -->
-                    </ul>
-                </div>
-
-                <!-- Container da Lixeira -->
-                <div class="trash-container">
-                    <ul class="product-list" id="trashList">
-                        <!-- Produtos excluídos serão inseridos aqui -->
-                    </ul>
+                    <div id="productList">
+                        <!-- Products will be added here dynamically -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -405,254 +227,56 @@
 
     <script>
         const productList = document.getElementById('productList');
-        const trashList = document.getElementById('trashList');
         const searchInput = document.getElementById('searchInput');
         let originalPrices = new Map();
         let products = [];
-        let trashedProducts = new Set();
 
-        // Gerenciar tabs
-        document.querySelectorAll('.tab').forEach(tab => {
-            tab.addEventListener('click', () => {
-                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-                tab.classList.add('active');
-                
-                if (tab.dataset.tab === 'trash') {
-                    document.querySelector('.products-container').classList.add('inactive');
-                    document.querySelector('.trash-container').classList.add('active');
-                } else {
-                    document.querySelector('.products-container').classList.remove('inactive');
-                    document.querySelector('.trash-container').classList.remove('active');
-                }
-            });
-        });
+        const categoryIcons = {
+            'CERVEJAS': 'adega.jpeg',
+            'Cervejas Retornável': 'adega.jpeg',
+            'Combo Bebidas': 'adega.jpeg',
+            'Doces / Chocolates': 'adega.jpeg',
+            'SALGADINHOS': 'adega.jpeg',
+            'Refrigerantes / Água / Sucos / Chá': 'adega.jpeg',
+            'VINHOS': 'adega.jpeg',
+            'WHISKEY': 'adega.jpeg',
+            'VODKAS': 'adega.jpeg',
+            'Carvão Para Churrasco': 'adega.jpeg',
+            'Drinks Prontos': 'adega.jpeg',
+            'ENERGÉTICOS': 'adega.jpeg',
+            'Gins': 'adega.jpeg',
+            'LICOR BEBIDA': 'adega.jpeg',
+            'default': 'steak.png'
+        };
 
-        // Adicione estas funções para gerenciar a lixeira
-        function loadTrashItems() {
-            const savedTrash = localStorage.getItem('trashedProducts');
-            return savedTrash ? JSON.parse(savedTrash) : [];
+        function getCategoryIcon(category) {
+            return categoryIcons[category] || categoryIcons['default'];
         }
 
-        function saveTrashItems(items) {
-            localStorage.setItem('trashedProducts', JSON.stringify(items));
-        }
-
-        // Modifique a função moveToTrash
-        function moveToTrash(productName, li) {
-            // Remover da lista principal
-            li.remove();
-            
-            // Carregar itens da lixeira
-            const trashedItems = loadTrashItems();
-            
-            // Encontrar o produto completo
-            const product = products.find(p => p['Nome do Produto'] === productName);
-            
-            // Adicionar à lista de itens na lixeira
-            trashedItems.push(product);
-            
-            // Salvar lixeira atualizada
-            saveTrashItems(trashedItems);
-            
-            // Atualizar a exibição da lixeira
-            updateTrashDisplay();
-            
-            // Atualizar contadores considerando o item removido
-            updateCounter();
-        }
-
-        // Modifique a função restoreFromTrash
-        function restoreFromTrash(productName, li) {
-            // Remover da lixeira visual
-            li.remove();
-            
-            // Carregar itens da lixeira
-            let trashedItems = loadTrashItems();
-            
-            // Remover da lista de itens na lixeira
-            trashedItems = trashedItems.filter(item => item['Nome do Produto'] !== productName);
-            
-            // Salvar lixeira atualizada
-            saveTrashItems(trashedItems);
-            
-            // Adicionar de volta à lista principal
-            const product = products.find(p => p['Nome do Produto'] === productName);
-            if (product) {
-                addProductToList(product);
-            }
-            
-            // Atualizar contadores considerando o item restaurado
-            updateCounter();
-        }
-
-        // Modifique a função updateTrashDisplay
-        function updateTrashDisplay() {
-            const trashList = document.getElementById('trashList');
-            trashList.innerHTML = '';
-            
-            // Carregar itens da lixeira
-            const trashedItems = loadTrashItems();
-            
-            trashedItems.forEach(product => {
-                const li = document.createElement('li');
-                li.className = 'product-item';
-                
-                const img = document.createElement('img');
-                const placeholderPath = 'svg/maozinha.png';
-                img.src = product['URL da Imagem'] !== 'placeholder.jpg' ? 
-                    product['URL da Imagem'] : 
-                    placeholderPath;
-                img.alt = product['Nome do Produto'];
-                img.onerror = () => {
-                    img.src = placeholderPath;
-                };
-                
-                const productInfo = document.createElement('div');
-                productInfo.className = 'product-info';
-                productInfo.innerHTML = `
-                    <strong>${product['Nome do Produto']}</strong><br>
-                    <em>${product['Categoria'] || 'Sem categoria'}</em><br>
-                    <span>Preço: ${product['Preço']}</span>
-                `;
-                
-                const restoreBtn = document.createElement('button');
-                restoreBtn.className = 'restore-btn';
-                restoreBtn.textContent = 'Restaurar';
-                restoreBtn.onclick = () => restoreFromTrash(product['Nome do Produto'], li);
-                
-                li.appendChild(img);
-                li.appendChild(productInfo);
-                li.appendChild(restoreBtn);
-                trashList.appendChild(li);
-            });
-        }
-
-        // Adicione esta função para carregar a lixeira inicial
-        function loadInitialTrash() {
-            updateTrashDisplay();
-        }
-
-        // Modifique o carregamento inicial para incluir a lixeira
-        document.addEventListener('DOMContentLoaded', function() {
-            // ... existing code ...
-            loadInitialTrash();
-        });
-
-        // Função auxiliar para adicionar produto à lista principal
-        function addProductToList(product) {
-            const li = document.createElement('li');
-            li.className = 'product-item';
-            
-            // ... resto do código de criação do item da lista ...
-            // (copie a parte relevante do seu código existente)
-            
-            productList.appendChild(li);
-        }
-
-        // Modifique a função updateCounter
-        function updateCounter() {
-            // Carregar itens da lixeira
-            const trashedItems = loadTrashItems();
-            const trashedCount = trashedItems.length;
-            
-            // Total de produtos (excluindo os que estão na lixeira)
-            const total = products.length - trashedCount;
-            
-            // Produtos marcados como completos (excluindo os que estão na lixeira)
-            const completed = document.querySelectorAll('.product-item.completed:not(.trashed)').length;
-            
-            // Atualizar os contadores na interface
-            document.getElementById('totalProducts').textContent = total;
-            document.getElementById('completedProducts').textContent = completed;
-        }
-
-        // Funções para gerenciar o estado dos checkboxes
-        function loadCheckedState() {
-            const savedState = localStorage.getItem('checkedProducts');
-            return savedState ? JSON.parse(savedState) : {};
-        }
-
-        function saveCheckedState(productName, isChecked) {
-            const checkedItems = loadCheckedState();
-            checkedItems[productName] = isChecked;
-            localStorage.setItem('checkedProducts', JSON.stringify(checkedItems));
-        }
-
-        // Funções para marcar/desmarcar todos
-        function checkAll() {
-            const checkboxes = document.querySelectorAll('.product-item input[type="checkbox"]');
-            checkboxes.forEach(checkbox => {
-                checkbox.checked = true;
-                const li = checkbox.closest('.product-item');
-                li.classList.add('completed');
-                saveCheckedState(li.querySelector('strong').textContent, true);
-            });
-            updateCounter();
-        }
-
-        function uncheckAll() {
-            const checkboxes = document.querySelectorAll('.product-item input[type="checkbox"]');
-            checkboxes.forEach(checkbox => {
-                checkbox.checked = false;
-                const li = checkbox.closest('.product-item');
-                li.classList.remove('completed');
-                saveCheckedState(li.querySelector('strong').textContent, false);
-            });
-            updateCounter();
-        }
-
-        // Função de pesquisa
-        function setupSearch() {
-            const searchInput = document.getElementById('searchInput');
-            searchInput.addEventListener('input', function() {
-                const searchTerm = this.value.toLowerCase();
-                const sections = document.querySelectorAll('.category-section');
-                
-                sections.forEach(section => {
-                    const items = section.querySelectorAll('.product-item');
-                    let hasVisibleItems = false;
-                    
-                    items.forEach(item => {
-                        const productName = item.querySelector('strong').textContent.toLowerCase();
-                        const categoria = item.querySelector('em').textContent.toLowerCase();
-                        const shouldShow = productName.includes(searchTerm) || 
-                                         categoria.includes(searchTerm);
-                        item.style.display = shouldShow ? '' : 'none';
-                        if (shouldShow) hasVisibleItems = true;
-                    });
-                    
-                    section.style.display = hasVisibleItems ? '' : 'none';
-                });
-            });
-        }
-
-        // Função para obter categorias únicas
-        function getUniqueCategories(products) {
-            return [...new Set(products.map(p => p.Categoria))].filter(Boolean).sort();
-        }
-
-        // Função para criar menu de categorias
         function createCategoryMenu(categories) {
             const categoryList = document.querySelector('.category-list');
             const categoryCounts = {};
 
-            // Contar produtos por categoria
             products.forEach(product => {
                 const category = product.Categoria || 'Sem Categoria';
                 categoryCounts[category] = (categoryCounts[category] || 0) + 1;
             });
 
-            // Atualizar contador "Todas"
             document.querySelector('#count-all').textContent = products.length;
 
-            // Criar botões para cada categoria
             categories.forEach(category => {
                 const button = document.createElement('button');
                 button.className = 'category-button';
                 button.dataset.category = category;
                 
+                const icon = document.createElement('img');
+                icon.src = getCategoryIcon(category);
+                icon.className = 'category-icon';
+                icon.alt = category;
+                
                 const count = categoryCounts[category] || 0;
                 button.innerHTML = `
+                    ${icon.outerHTML}
                     <span>${category}</span>
                     <span class="category-count">${count}</span>
                 `;
@@ -660,261 +284,44 @@
                 button.addEventListener('click', () => filterByCategory(category));
                 categoryList.appendChild(button);
             });
-
-            // Adicionar "Sem Categoria" se houver produtos sem categoria
-            if (categoryCounts['Sem Categoria']) {
-                const button = document.createElement('button');
-                button.className = 'category-button';
-                button.dataset.category = 'Sem Categoria';
-                button.innerHTML = `
-                    <span>Sem Categoria</span>
-                    <span class="category-count">${categoryCounts['Sem Categoria']}</span>
-                `;
-                button.addEventListener('click', () => filterByCategory('Sem Categoria'));
-                categoryList.appendChild(button);
-            }
         }
 
-        // Modificar a função de filtro por categoria
-        function filterByCategory(category) {
-            const buttons = document.querySelectorAll('.category-button');
-            buttons.forEach(btn => btn.classList.remove('active'));
+        function createCategorySection(category) {
+            const section = document.createElement('div');
+            section.className = 'category-section';
+            section.dataset.category = category;
             
-            // Corrigir a seleção do botão "Todas"
-            if (category === 'all') {
-                document.querySelector('[data-category="all"]').classList.add('active');
-            } else {
-                document.querySelector(`[data-category="${category}"]`).classList.add('active');
-            }
-
-            const sections = document.querySelectorAll('.category-section');
-            if (category === 'all') {
-                sections.forEach(section => section.style.display = '');
-                // Mostrar todos os produtos
-                document.querySelectorAll('.product-item').forEach(item => {
-                    item.style.display = '';
-                });
-            } else {
-                // Esconder todos os produtos primeiro
-                document.querySelectorAll('.product-item').forEach(item => {
-                    const productCategory = item.closest('.category-section').dataset.category;
-                    item.style.display = productCategory === category ? '' : 'none';
-                });
-                
-                // Mostrar/esconder as seções
-                sections.forEach(section => {
-                    section.style.display = section.dataset.category === category ? '' : 'none';
-                });
-            }
-
-            // Atualizar contador baseado na categoria
-            updateCounterForCategory(category);
+            const header = document.createElement('div');
+            header.className = 'category-header';
+            
+            const icon = document.createElement('img');
+            icon.src = getCategoryIcon(category);
+            icon.alt = category;
+            
+            const title = document.createElement('h2');
+            title.textContent = category;
+            
+            header.appendChild(icon);
+            header.appendChild(title);
+            section.appendChild(header);
+            
+            const productsList = document.createElement('div');
+            productsList.className = 'product-list';
+            section.appendChild(productsList);
+            
+            return section;
         }
 
-        // Modificar a função de atualização do contador
-        function updateCounterForCategory(category) {
+        function updateCounter() {
             const totalSpan = document.getElementById('totalProducts');
-            const completedSpan = document.getElementById('completedProducts');
-
-            if (category === 'all') {
-                // Contar apenas produtos válidos (que têm nome e categoria)
-                const validProducts = products.filter(product => 
-                    product['Nome do Produto'] && 
-                    product['Nome do Produto'].trim() !== ''
-                );
-                const displayedProducts = document.querySelectorAll('.product-item:not([style*="display: none"])');
-                const completedProducts = document.querySelectorAll('.product-item.completed:not([style*="display: none"])');
-                
-                // Log para debug
-                console.log('Total de produtos válidos:', validProducts.length);
-                console.log('Total de produtos exibidos:', displayedProducts.length);
-                
-                totalSpan.textContent = validProducts.length;
-                completedSpan.textContent = completedProducts.length;
-            } else {
-                // Contar apenas produtos da categoria selecionada
-                const categoryProducts = document.querySelectorAll(`[data-category="${category}"] .product-item:not([style*="display: none"])`);
-                const completedProducts = document.querySelectorAll(`[data-category="${category}"] .product-item.completed:not([style*="display: none"])`);
-                
-                totalSpan.textContent = categoryProducts.length;
-                completedSpan.textContent = completedProducts.length;
-            }
+            const validProducts = products.filter(product => 
+                product['Nome do Produto'] && 
+                product['Nome do Produto'].trim() !== ''
+            );
+            totalSpan.textContent = validProducts.length;
         }
 
-        // Adicionar evento de clique ao botão "Todas as Categorias" no carregamento inicial
-        document.addEventListener('DOMContentLoaded', function() {
-            const allCategoriesBtn = document.querySelector('[data-category="all"]');
-            if (allCategoriesBtn) {
-                allCategoriesBtn.addEventListener('click', () => filterByCategory('all'));
-            }
-        });
-
-        // Modificar a função que carrega os produtos
-        fetch('data/products.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                return response.json();
-            })
-            .then(productsData => {
-                // Filtrar produtos válidos (que têm nome e não são duplicados)
-                const uniqueProducts = new Map();
-                productsData.forEach(product => {
-                    if (product['Nome do Produto'] && product['Nome do Produto'].trim() !== '') {
-                        uniqueProducts.set(product['Nome do Produto'].trim(), product);
-                    }
-                });
-                
-                products = Array.from(uniqueProducts.values());
-                
-                // Log para debug
-                console.log('Total de produtos antes da filtragem:', productsData.length);
-                console.log('Total de produtos únicos:', products.length);
-
-                if (!products || products.length === 0) {
-                    throw new Error('Nenhum produto encontrado no JSON');
-                }
-
-                // Criar menu de categorias
-                const categories = getUniqueCategories(products);
-                createCategoryMenu(categories);
-
-                // Agrupar produtos por categoria
-                const checkedItems = loadCheckedState();
-                productList.innerHTML = '';
-
-                // Criar seção "Sem Categoria" primeiro
-                const uncategorizedSection = document.createElement('div');
-                uncategorizedSection.className = 'category-section';
-                uncategorizedSection.dataset.category = 'Sem Categoria';
-                uncategorizedSection.innerHTML = '<div class="category-header">Sem Categoria</div>';
-                const uncategorizedList = document.createElement('ul');
-                uncategorizedList.className = 'product-list';
-                uncategorizedSection.appendChild(uncategorizedList);
-                productList.appendChild(uncategorizedSection);
-
-                // Criar seções para cada categoria
-                categories.forEach(category => {
-                    const section = document.createElement('div');
-                    section.className = 'category-section';
-                    section.dataset.category = category;
-                    section.innerHTML = `<div class="category-header">${category}</div>`;
-                    const categoryList = document.createElement('ul');
-                    categoryList.className = 'product-list';
-                    section.appendChild(categoryList);
-                    productList.appendChild(section);
-                });
-
-                // Distribuir produtos nas categorias
-                products.forEach(product => {
-                    const li = document.createElement('li');
-                    li.className = 'product-item';
-                    li.style.cursor = 'pointer';
-
-                    const checkbox = document.createElement('input');
-                    checkbox.type = 'checkbox';
-                    checkbox.checked = checkedItems[product['Nome do Produto']] || false;
-                    if (checkbox.checked) {
-                        li.classList.add('completed');
-                    }
-
-                    // Adiciona evento de clique no item inteiro
-                    li.addEventListener('click', (e) => {
-                        // Evita que o clique no botão de excluir marque o checkbox
-                        if (e.target.className === 'delete-btn' || e.target.className === 'restore-btn') {
-                            return;
-                        }
-                        
-                        // Inverte o estado do checkbox
-                        checkbox.checked = !checkbox.checked;
-                        li.classList.toggle('completed', checkbox.checked);
-                        saveCheckedState(product['Nome do Produto'], checkbox.checked);
-                        updateCounter();
-                    });
-
-                    // Previne que o clique no checkbox dispare duas vezes
-                    checkbox.addEventListener('click', (e) => {
-                        e.stopPropagation();
-                    });
-
-                    const img = document.createElement('img');
-                    const placeholderPath = 'svg/maozinha.png';
-                    img.src = product['URL da Imagem'] !== 'placeholder.jpg' ? 
-                        product['URL da Imagem'] : 
-                        placeholderPath;
-                    img.alt = product['Nome do Produto'];
-                    img.onerror = () => {
-                        img.src = placeholderPath;
-                    };
-                    
-                    img.style.maxWidth = '100px';
-                    img.style.height = 'auto';
-
-                    const productInfo = document.createElement('div');
-                    productInfo.className = 'product-info';
-
-                    const price = product['Preço'] ? 
-                        parseFloat(product['Preço'].replace('R$', '').replace(',', '.')) : 
-                        0;
-                    originalPrices.set(product['Nome do Produto'], price);
-
-                    const deleteBtn = document.createElement('button');
-                    deleteBtn.className = 'delete-btn';
-                    deleteBtn.textContent = 'Excluir';
-                    deleteBtn.onclick = () => moveToTrash(product['Nome do Produto'], li);
-
-                    productInfo.innerHTML = `
-                        <strong>${product['Nome do Produto']}</strong><br>
-                        <em>${product['Categoria'] || 'Sem categoria'}</em><br>
-                        <span>Preço: R$ <span class="price">${price.toFixed(2)}</span></span>
-                    `;
-
-                    li.appendChild(checkbox);
-                    li.appendChild(img);
-                    li.appendChild(productInfo);
-                    li.appendChild(deleteBtn);
-
-                    // Adicionar o produto à categoria correta
-                    const targetList = product.Categoria ? 
-                        document.querySelector(`[data-category="${product.Categoria}"] .product-list`) :
-                        document.querySelector(`[data-category="Sem Categoria"] .product-list`);
-                    
-                    if (targetList) {
-                        targetList.appendChild(li);
-                    }
-                });
-
-                updateCounter();
-                setupSearch();
-            })
-            .catch(error => {
-                console.error('Erro ao carregar produtos:', error);
-                document.body.innerHTML += `<div style="color: red; text-align: center;">Erro ao carregar produtos: ${error.message}</div>`;
-            });
-
-        // Atualizar preços
-        function updatePrices() {
-            const percentage = parseFloat(document.getElementById('percentage').value) || 0;
-            const prices = document.querySelectorAll('.price');
-            prices.forEach(priceElement => {
-                const productName = priceElement.closest('.product-item').querySelector('strong').textContent;
-                const originalPrice = originalPrices.get(productName);
-                const newPrice = originalPrice * (1 + percentage / 100);
-                priceElement.textContent = newPrice.toFixed(2);
-            });
-        }
-
-        // Resetar preços
-        function resetPrices() {
-            const prices = document.querySelectorAll('.price');
-            prices.forEach(priceElement => {
-                const productName = priceElement.closest('.product-item').querySelector('strong').textContent;
-                const originalPrice = originalPrices.get(productName);
-                priceElement.textContent = originalPrice.toFixed(2);
-            });
-            document.getElementById('percentage').value = 0;
-        }
+        // ... rest of your existing JavaScript code ...
     </script>
 </body>
 </html>
